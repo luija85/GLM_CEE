@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: tintHtml
     toc: true
 
 editor: source

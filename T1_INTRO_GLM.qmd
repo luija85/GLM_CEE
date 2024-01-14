@@ -1,5 +1,5 @@
 ---
-title: "Tema 1: Introducción a los modelos generales lineales"
+title: "Tema 1"
 toc: true
 toc_float:
 execute: 
