@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "CSEE Inferencia 2, temas de modelización"
+  title: "CSEE Inferencia 2, temas 1 a 8 de modelización"
   navbar:
     left:
       - href: index.qmd
